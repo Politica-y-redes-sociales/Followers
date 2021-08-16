@@ -2,6 +2,7 @@
 
 ## Funcionalidad
 
+Obtiene la cantidad de seguidores de las cuentas de twitter.
 
 ## Como se Utiliza
 
